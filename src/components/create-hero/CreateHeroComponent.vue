@@ -73,7 +73,9 @@ export default {
     };
   },
   methods: {
-    handleSubmitForm() {},
+    handleSubmitForm() {
+      // logic add new hero button
+    },
   },
 };
 </script>
